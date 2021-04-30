@@ -9,12 +9,12 @@ function wait(ms = 0) {
 const buttonText = [
         'Gross Dad!.',
         '🤦🏻‍♂️',
-        'omg dad.',
+        'OMG dad...',
         'you are the worst',
-        'seriously',
-        'stop it.',
+        'seriously...',
+        'stop it!',
         'please stop',
-        'that was like literally like the WORST one',
+        'that was like literally like the WORST one!',
         'Go play shuffleboard, DAD!',
         'Go eat your early bird dinner, DAD!',
 ];
