@@ -12,7 +12,7 @@
 
 ### **Technologies**
 
-- Javascript
+- JavaScript
 - HTML
 - CSS
   
